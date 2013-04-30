@@ -29,47 +29,29 @@ function render() {
 
 var backgrounds = [
   {
-    label : "angkor wat",
+    label : "monterey bay",
     greetingColor : "#000",
-    image : "images/angkor.jpg",
-    caption: "angkor wat",
-    captionLink : "http://en.wikipedia.org/wiki/Angkor_Wat",
+    image : "images/Jellies_at_monterey_bay_aq.jpg",
+    caption: "monterey bay",
+    captionLink : "http://en.wikipedia.org/wiki/Monterey_Bay",
     captionColor : "#FFF",
     linksColor : "#FFF"
   },
   {
-    label : "glacier national park",
+    label : "monterey bay",
     greetingColor : "#FFF",
-    image : "images/montana.jpg",
-    caption: "glacier national park",
-    captionLink : "http://en.wikipedia.org/wiki/Glacier_National_Park_(U.S.)",
+    image : "images/Monterey-Bay-State-Park.jpg",
+    caption: "monterey bay",
+    captionLink : "http://en.wikipedia.org/wiki/Monterey_State_Historic_Park",
     captionColor : "#FFF",
     linksColor : "#FFF"
   },
   {
-    label : "the inca trail",
+    label : "st maarten",
     greetingColor : "#000",
-    image : "images/peru.jpg",
-    caption : "inca trail", 
-    captionLink : "http://en.wikipedia.org/wiki/Inca_Trail_to_Machu_Picchu",
-    captionColor : "#FFF",
-    linksColor : "#FFF"
-  },
-  {
-    label : "shady waffle",
-    greetingColor : "#FFF",
-    image : "images/bm.jpg",
-    caption : "shady waffle", 
-    captionLink : "http://www.shadywaffle.org/",
-    captionColor : "#FFF",
-    linksColor : "#FFF"
-  },
-  {
-    label : "nepal",
-    greetingColor : "#000",
-    image : "images/nepal.jpg",
-    caption : "mardi himal", 
-    captionLink : "http://en.wikipedia.org/wiki/Trekking_peak",
+    image : "images/SAMPSON_BAY_ST_MAARTEN.jpg",
+    caption : "st maarten", 
+    captionLink : "http://en.wikipedia.org/wiki/Saint_Martin",
     captionColor : "#FFF",
     linksColor : "#FFF"
   },
